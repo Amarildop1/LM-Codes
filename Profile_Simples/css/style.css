@@ -86,10 +86,52 @@ body {
   margin-top: 40px;
 }
 
+.education table td{
+  vertical-align: top;
+  padding-bottom: 20px;
+}
+
+.education table .date{
+  color: #636363;
+  text-align: center;
+}
+
+.education table h1{
+  font-size: 1.2em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.education table h2{
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #636363;
+}
+
+.education table p{
+  color: #636363;
+}
+
 /* Professional Skill */
+.skill table{
+  width: 100%;
+}
 
+.skill table .skill-name{
+  width: 25%;
+  text-transform: uppercase;
+}
 
-/*Formatação do link da Tabela de Contato*/
+.skill .skill-bar-value .skill-bar{
+  background-color: #a6a5a5;
+}
+
+.skill .skill-bar-value .skill-bar .skill-value{
+  background-color: #49c5b1;
+  height: 1em;
+}
+
+/*Link da Tabela de Contato*/
 .contact-me table a{
   color: #f7f7f7;
   text-decoration: none;
