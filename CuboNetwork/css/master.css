@@ -39,7 +39,7 @@ header nav ul li a{
   color: #868686;
 }
 
-header nav ul li:first-child{
+header nav ul li a.filho1{
   background-color: #e76924;
   color: white;
   border-radius: 4px;
