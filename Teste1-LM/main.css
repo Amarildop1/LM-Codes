@@ -1,4 +1,4 @@
-/*  LM-IF | 01 de Novembro de 2019  */
+/*  01 de Novembro de 2019  */
 body{
     background-color: whitesmoke;
     margin: 0;
@@ -6,7 +6,6 @@ body{
     font-weight: 400;
     font-size: 1.1rem;
 }
-
 
 .menu a{
     color: black;
@@ -26,8 +25,6 @@ body{
 .menu ul li a:hover{
     font-weight: 600;
 }
-
-
 
 .testemunhos{
     text-align: center;
@@ -58,8 +55,6 @@ body{
     text-align: right;
 }
 
-
-
 .notas{
     padding: 40px;
     background-color: #8CC7FF;
@@ -82,8 +77,6 @@ body{
     font-weight: bold;
     color: white;
 }
-
-
 
 .banner{
     background-color: #8CC7FF;
