@@ -1,8 +1,4 @@
-/*
-    Amarildo Pereira - 20192370028
-    Prova 02 de LM
-    13.Dezembro.2019
-*/
+/* 13 de Dezembro de 2019 */
 body{
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
@@ -44,9 +40,6 @@ header .menu a:hover{
     font-weight: 600;
 }
 
-/*********************/
-/* TODO COMPONENTE 1 */
-/*********************/
 @media screen and (min-width: 400px){
     header .menu ul{
         display: flex;
@@ -72,7 +65,6 @@ header .menu a:hover{
         justify-content: space-between;
     }
 }
-/******** FIM DO COMPONENTE 1 ********/
 
 .testemunhos{
     display: grid;
@@ -104,9 +96,6 @@ header .menu a:hover{
     text-align: right;
 }
 
-/*********************/
-/* TODO COMPONENTE 2 */
-/*********************/
 @media screen and (min-width: 400px){
     .testemunhos{
         display: grid;
@@ -133,11 +122,7 @@ header .menu a:hover{
         grid-gap: 1%; 
     }
 }
-/******** FIM DO COMPONENTE 2 ********/
 
-/*********************/
-/* TODO COMPONENTE 3 */
-/*********************/
 main .banner{
     background-color: rgb(105, 112, 247);
     background-image: url(./img/texto.jpg);
@@ -146,7 +131,7 @@ main .banner{
     background-position-y: -100px;
     background-blend-mode: overlay;
 }
-/******** FIM DO COMPONENTE 3 ********/
+
 
 .banner h1{
     text-align:center;
