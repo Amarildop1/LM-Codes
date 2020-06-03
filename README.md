@@ -1,2 +1,2 @@
-## LM-Codes - Exercícios da disciplina
-HTML5 e CSS3
+### LM-Codes - Exercícios da disciplina
+Usando HTML5 e CSS3
