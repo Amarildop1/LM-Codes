@@ -1,1 +1,11 @@
 /* TODO */
+
+.contacts p{
+    margin-left: 1.3em;
+    font-size: 1rem;
+}
+
+.contacts i{
+    margin-right: 0.7rem;
+    vertical-align: middle;
+}
