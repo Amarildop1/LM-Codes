@@ -1,2 +1,3 @@
-### LM-Codes - Exercícios da disciplina
-Usando HTML5 e CSS3
+### Linguagem de Marcação - Exercícios da disciplina
+
+Usando somente HTML5 e CSS3
